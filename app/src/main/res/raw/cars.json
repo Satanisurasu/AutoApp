@@ -1,0 +1,62 @@
+[
+  {
+    "producer": "Toyota",
+    "model": "Corolla",
+    "price": 15000,
+    "imageUrl": "https://media.ed.edmunds-media.com/toyota/corolla-hybrid/2025/oem/2025_toyota_corolla-hybrid_sedan_se_fq_oem_1_1280.jpg"
+  },
+  {
+    "producer": "Toyota",
+    "model": "Camry",
+    "price": 20000,
+    "imageUrl": "https://images.dealer.com/ddc/vehicles/2025/Toyota/Camry/Sedan/trim_SE_2bd981/color/Heavy%20Metal-1L5-75%2C75%2C77-640-en_US.jpg?impolicy=downsize_bkpt&imdensity=1&w=520"
+  },
+  {
+    "producer": "Toyota",
+    "model": "RAV4",
+    "price": 25000,
+    "imageUrl": "https://crdms.images.consumerreports.org/c_lfill,w_470,q_auto,f_auto/prod/cars/cr/car-versions/25820-2019-toyota-rav4-hybrid-xle"
+  },
+  {
+    "producer": "Ford",
+    "model": "Focus",
+    "price": 13000,
+    "imageUrl": "https://www.web55.ru/files/2017-06-15-14-56-22.jpg"
+  },
+  {
+    "producer": "Ford",
+    "model": "Fusion",
+    "price": 18000,
+    "imageUrl": "https://cdn.wheel-size.com/automobile/body/ford-fusion-2019-2021-1673589583.0816476.jpg"
+  },
+  {
+    "producer": "Ford",
+    "model": "Explorer",
+    "price": 30000,
+    "imageUrl": "https://platform.cstatic-images.com/large/in/v2/stock_photos/2b62181a-29a8-4f72-a050-0a152c1f7c88/4644a31d-f337-47df-899b-156143724b7c.png"
+  },
+  {
+    "producer": "BMW",
+    "model": "X3",
+    "price": 40000,
+    "imageUrl": "https://vehicle-images.dealerinspire.com/stock-images/chrome/1c6005d8152cbcb8f36a727d471cda7d.png"
+  },
+  {
+    "producer": "BMW",
+    "model": "X5",
+    "price": 50000,
+    "imageUrl": "https://www.cartecgroup.com/app/uploads/sites/4/2024/06/1719391246VEHICLE-VIEW-030-X5-xDrive50e-1719391167805.png"
+  },
+  {
+    "producer": "BMW",
+    "model": "3 Series",
+    "price": 35000,
+    "imageUrl": "https://www.fmdt.info/vehicle/bmw/2020/3-series-330i-32-white.png"
+  },
+  {
+    "producer": "Audi",
+    "model": "A4",
+    "price": 45000,
+    "imageUrl": "https://images.dealer.com/ddc/vehicles/2025/Audi/A4/Sedan/still/front-left/front-left-640-en_US.jpg"
+  }
+]

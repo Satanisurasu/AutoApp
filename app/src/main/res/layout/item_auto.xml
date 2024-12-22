@@ -1,0 +1,38 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <ImageView
+        android:id="@+id/carImageView"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:id="@+id/producerText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Производитель"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:paddingTop="4dp" />
+
+    <TextView
+        android:id="@+id/modelText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Модель"
+        android:textSize="14sp"
+        android:paddingTop="4dp" />
+
+    <TextView
+        android:id="@+id/priceText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Цена"
+        android:textSize="14sp"
+        android:textColor="@android:color/holo_red_dark"
+        android:paddingTop="4dp" />
+</LinearLayout>

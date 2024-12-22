@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AutoApp</string>
+
+    <!-- Строки для фильтрации -->
+    <string-array name="producers">
+        <item>Все</item>
+        <item>Toyota</item>
+        <item>Ford</item>
+        <item>BMW</item>
+    </string-array>
+
+    <!-- Строки для сортировки -->
+    <string-array name="sort_options">
+        <item>По возрастанию цены</item>
+        <item>По убыванию цены</item>
+    </string-array>
+</resources>
